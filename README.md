@@ -1,5 +1,5 @@
 **db-university**
-
+1. 
 - Modellizzare la struttura di un database per memorizzare tutti i dati riguardanti una università:
 - sono presenti diversi `Dipartimenti` (es.: Lettere e Filosofia, Matematica, Ingegneria ecc.);
 - ogni `Dipartimento` offre più `Corsi di Laurea` (es.: Civiltà e Letterature Classiche, Informatica, Ingegneria Elettronica ecc..)
@@ -15,3 +15,14 @@
 - Per disegnare il diagramma utilizzate lo strumento che preferite (draw.io, MySql Workbench, miro, figma…)
 - Usa MySql Workbench 
 - Una volta realizzato il diagramma fate uno screenshot o esportate il pdf.
+
+
+2. 
+Dopo aver creato un nuovo database nel vostro phpMyAdmin e aver importato lo schema allegato, eseguite le query del file allegato “EX - Query con SELECT.pdf”.
+**Cosa consegnare?**
+Dopo aver testato le vostre query con phpMyAdmin, riportatele in un file txt e caricatelo nella vostra repo.
+BONUS
+Eseguire le query di “EX - Query con GROUP BY.pdf”
+
+3. 
+Eseguire le query;
